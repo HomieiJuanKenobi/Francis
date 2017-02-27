@@ -1,4 +1,4 @@
-export https proxy=proxy:3128
+export https_proxy=proxy:3128
 
 mkdir mon_git
 dir
